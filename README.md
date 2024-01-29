@@ -2,7 +2,7 @@
 My name is Rakin: BSc (Hons) Physics graduate, aspiring data/cloud engineer, building my experience in Python for data analysis/engineering.
 Trying to learn as much as possible 🔭.
 
-Interested applied physics, healthcare sciences, engineering, art, travelling, gaming, sports, among other things.
+Interested in applied physics, healthcare sciences, engineering, art, travelling, gaming, sports, among other things.
 Reach out for collaboration on anything interesting 🤝.
 
 Currently seeking roles in tech.
