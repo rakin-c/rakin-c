@@ -13,7 +13,7 @@ Contact me:
 
 ## ⚡Skills and tools:
 - 💻 Languages:
-  - Python (Pandas, NumPy, Matplotlib, Astropy)
+  - Python (Pandas, NumPy, Matplotlib, SciPy)
   - SQL
   - A little bit of C
 - 📂 Databases:
